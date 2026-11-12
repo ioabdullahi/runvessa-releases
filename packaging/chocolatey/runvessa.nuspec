@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+ <metadata>
+  <id>runvessa</id><version>0.4.0-preview.6</version><title>Runvessa (Preview)</title>
+  <authors>Cresdig</authors><owners>ioabdullahi</owners>
+  <packageSourceUrl>https://github.com/ioabdullahi/runvessa-releases/tree/main/packaging/chocolatey</packageSourceUrl>
+  <projectUrl>https://github.com/ioabdullahi/runvessa-releases</projectUrl>
+  <licenseUrl>https://github.com/ioabdullahi/runvessa-releases/blob/main/PREVIEW-LICENSE.txt</licenseUrl>
+  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  <summary>A guided desktop workspace for Linux server operations.</summary>
+  <description>Preview release with guided SSH connections, server health, verified hosting backups and beginner guides. Installs for the current user. DirectAdmin and unverified public DNS/mail cutover routes remain gated. Unsigned installer; no Store certification is claimed.</description>
+  <releaseNotes>https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.6</releaseNotes>
+  <tags>runvessa server ssh backup migration preview</tags>
+ </metadata>
+ <files><file src="tools\**" target="tools" /></files>
+</package>
