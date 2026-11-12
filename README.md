@@ -4,17 +4,25 @@
 
 Official Runvessa distribution repository, published by Nsexpress Digital Limited. The application source repository remains private. This repository contains installers, release notes, checksums, licence text and package-installation metadata only.
 
-## Windows x64 preview.6
+## Windows x64 preview.7
 
-[Download Runvessa Setup](https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.6/Runvessa-Setup-0.4.0-preview.6-Windows-x64.exe)
+[Download Runvessa Setup](https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.7/Runvessa-Setup-0.4.0-preview.7-Windows-x64.exe)
 
-The 123978571-byte installer was downloaded anonymously in full and verified against SHA256:
+The 125066962-byte installer has the same SHA256 in the local release build and GitHub’s uploaded-asset digest:
 
-`243177f0da24c323429025a8651a3f826b3d914741ba291b073e87282f3293fb`
+`e178c08b524c2f6a30ca08c14688d6296fe81defe447a80a0a9de66b6bb20e19`
 
-[Release notes and checksums](https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.6) · [Free proprietary preview licence](PREVIEW-LICENSE.txt) · [Help and support](https://harbor-workspace-ioabdullahi.netlify.app/support)
+[Release notes and checksums](https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.7) · [Free proprietary preview licence](PREVIEW-LICENSE.txt) · [Help and support](https://harbor-workspace-ioabdullahi.netlify.app/support)
 
 Setup creates Desktop and Start menu shortcuts. Taskbar pinning is controlled by Windows. This is an unsigned preview; Microsoft Store certification and warning-free installation are not claimed.
+
+## What changed in preview.7
+
+Existing Hestia hosting is discovered before setup. Browse websites, hosting roles, mailboxes, database metadata and DNS zones. Search by domain or account, check public HTTPS and add a separate WordPress website through a reviewed wizard. The selected server stays in context, password generation is available, and a follow-along beginner guide explains the services.
+
+Validation includes 116 Node tests, five Python adapter tests and isolated Electron acceptance over real loopback SSH/SFTP with synthetic provider responses. This is not a new live cross-panel cutover test. Unsupported routes remain gated.
+
+Netlify verified the uploaded preview.7 executable, but production deployment and release promotion currently return an exhausted-usage restriction. The direct GitHub download above is the current published build. No paid plan upgrade was enabled.
 
 ## Catalog status
 
