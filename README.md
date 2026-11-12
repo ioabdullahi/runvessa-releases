@@ -8,7 +8,7 @@ Official Runvessa distribution repository, published by Nsexpress Digital Limite
 
 [Download Runvessa Setup](https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.7/Runvessa-Setup-0.4.0-preview.7-Windows-x64.exe)
 
-The 125066962-byte installer has the same SHA256 in the local release build and GitHub’s uploaded-asset digest:
+All 125066962 bytes were downloaded anonymously from the public release URL using eight byte ranges, then hashed in order. The resulting SHA256 matches the local release build and GitHub’s uploaded-asset digest:
 
 `e178c08b524c2f6a30ca08c14688d6296fe81defe447a80a0a9de66b6bb20e19`
 
