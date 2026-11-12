@@ -12,7 +12,7 @@ The 125066962-byte installer has the same SHA256 in the local release build and 
 
 `e178c08b524c2f6a30ca08c14688d6296fe81defe447a80a0a9de66b6bb20e19`
 
-[Release notes and checksums](https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.7) · [Free proprietary preview licence](PREVIEW-LICENSE.txt) · [Help and support](https://harbor-workspace-ioabdullahi.netlify.app/support)
+[Google Drive mirror](https://drive.google.com/file/d/1bD1W7pFxcLkRs-ulWVcSitqw0Mxlk8-M/view) · [Release notes and checksums](https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.7) · [Free proprietary preview licence](PREVIEW-LICENSE.txt) · [Help and support](https://harbor-workspace-ioabdullahi.netlify.app/support)
 
 Setup creates Desktop and Start menu shortcuts. Taskbar pinning is controlled by Windows. This is an unsigned preview; Microsoft Store certification and warning-free installation are not claimed.
 
@@ -32,4 +32,4 @@ DirectAdmin and unverified public DNS/mail cutover migration routes remain gated
 
 GitHub automatically provides archives labelled “Source code”. Those archives contain this distribution repository's release materials, not the private application source.
 
-Software author and copyright owner: **Nsexpress Digital Limited**. The existing preview.6 executable retains its original embedded Cresdig publisher text; author metadata for future builds is corrected. Its tested bytes and checksum are unchanged.
+Software author and copyright owner: **Nsexpress Digital Limited**. The existing preview.6 executable retains its original embedded Cresdig publisher text; preview.7 embeds Nsexpress Digital Limited as CompanyName. Its tested bytes and checksum are unchanged.
