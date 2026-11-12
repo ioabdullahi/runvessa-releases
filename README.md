@@ -16,7 +16,7 @@ Setup creates Desktop and Start menu shortcuts. Taskbar pinning is controlled by
 
 ## Catalog status
 
-[WinGet submission](https://github.com/microsoft/winget-pkgs/pull/478291) is under validation. A submission is not an accepted listing; do not assume `winget install` is available yet. Chocolatey submission status will be recorded after confirmation.
+[WinGet submission](https://github.com/microsoft/winget-pkgs/pull/478291) is under validation. A submission is not an accepted listing; do not assume `winget install` is available yet. [Chocolatey preview submission](https://community.chocolatey.org/packages/runvessa/0.4.0-preview0006) has been received and is awaiting automated checks/moderation. Chocolatey uses package version `0.4.0-preview0006` for application version `0.4.0-preview.6` because its Community Repository does not accept dotted prerelease labels. Neither catalog is claimed approved until its review finishes.
 
 DirectAdmin and unverified public DNS/mail cutover migration routes remain gated. The tested public two-step support-form redesign is awaiting Netlify deployment because the account's production deploy credits are exhausted.
 
