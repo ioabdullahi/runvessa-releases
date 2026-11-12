@@ -1,0 +1,18 @@
+Runvessa Free Proprietary Preview Licence
+Version 1 — November 12, 2026
+
+Copyright (c) 2026 Cresdig. All rights reserved.
+
+Permission: Cresdig grants you a non-exclusive, worldwide, royalty-free licence to download, install and use the unmodified Runvessa 0.4.0-preview.6 executable for personal or business evaluation and server-management work you are authorized to perform. No purchase or subscription is required for this version. You may retain backup copies.
+
+Ownership: This is proprietary software. This licence does not grant access to or ownership of application source code, trademarks, or other intellectual property. Do not sell, sublicense, distribute modified copies, or remove ownership notices. Rights that applicable law guarantees are not restricted by this licence. Third-party components remain subject to their own licences and notices.
+
+Preview limitations: This is an unsigned preview, not a promise that every migration route is supported. Features marked unavailable or untested must not be relied on as verified. Keep independent backups, test with non-production data first, and use the software only on systems you are authorized to manage.
+
+Privacy: Connections, credentials and support information are handled as described at https://harbor-workspace-ioabdullahi.netlify.app/privacy . Do not include passwords, private keys or customer data in support requests.
+
+Warranty and liability: To the extent permitted by applicable law, this preview is supplied as-is, without warranties, including fitness for a particular purpose, merchantability or non-infringement. To the extent permitted by law, Cresdig is not liable for loss of data, service interruption or indirect or consequential loss arising from its use. Mandatory consumer rights and liabilities that cannot lawfully be excluded remain unaffected.
+
+Termination: You may stop using the software at any time. This permission ends if you materially breach these terms; cease use and remove your copies in that event. This does not transfer ownership of your data.
+
+Support: https://harbor-workspace-ioabdullahi.netlify.app/support
