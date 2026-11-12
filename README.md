@@ -1,6 +1,8 @@
 # Runvessa downloads
 
-Official Runvessa distribution repository, published by Cresdig. The application source repository remains private. This repository contains installers, release notes, checksums, licence text and package-installation metadata only.
+![Runvessa logo](branding/runvessa.png)
+
+Official Runvessa distribution repository, published by Nsexpress Digital Limited. The application source repository remains private. This repository contains installers, release notes, checksums, licence text and package-installation metadata only.
 
 ## Windows x64 preview.6
 
@@ -21,3 +23,5 @@ Setup creates Desktop and Start menu shortcuts. Taskbar pinning is controlled by
 DirectAdmin and unverified public DNS/mail cutover migration routes remain gated. The tested public two-step support-form redesign is awaiting Netlify deployment because the account's production deploy credits are exhausted.
 
 GitHub automatically provides archives labelled “Source code”. Those archives contain this distribution repository's release materials, not the private application source.
+
+Software author and copyright owner: **Nsexpress Digital Limited**. The existing preview.6 executable retains its original embedded Cresdig publisher text; author metadata for future builds is corrected. Its tested bytes and checksum are unchanged.
