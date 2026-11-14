@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
  <metadata>
-  <id>runvessa</id><version>0.4.0-preview0006</version><title>Runvessa (Preview)</title>
+  <id>runvessa</id><version>0.4.0-preview0011</version><title>Runvessa (Preview)</title>
   <authors>Nsexpress Digital Limited</authors><owners>ioabdullahi</owners>
   <packageSourceUrl>https://github.com/ioabdullahi/runvessa-releases/tree/main/packaging/chocolatey</packageSourceUrl>
-  <iconUrl>https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.6/Runvessa-Logo.png</iconUrl>
+  <iconUrl>https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.11/Runvessa-Logo.png</iconUrl>
   <projectUrl>https://github.com/ioabdullahi/runvessa-releases</projectUrl>
   <licenseUrl>https://github.com/ioabdullahi/runvessa-releases/blob/main/PREVIEW-LICENSE.txt</licenseUrl>
   <requireLicenseAcceptance>false</requireLicenseAcceptance>
   <summary>A guided desktop workspace for Linux server operations.</summary>
-  <description>Chocolatey package 0.4.0-preview0006 installs application version 0.4.0-preview.6. This is a free proprietary preview release with guided SSH connections, server health, verified hosting backups and beginner guides. Installs for the current user. DirectAdmin and unverified public DNS/mail cutover routes remain gated. Unsigned installer; no Store certification is claimed.</description>
-  <releaseNotes>https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.6</releaseNotes>
+  <description>Chocolatey package 0.4.0-preview0011 installs application version 0.4.0-preview.11. This is a free proprietary preview release with guided SSH connections, Hestia website/account/mailbox management, protected code editing, scoped MariaDB SQL with backup/recovery, authoritative cPanel DNS and beginner guides. Installs for the current user. DirectAdmin and unverified public DNS/mail cutover routes remain gated. Unsigned installer; no Store certification is claimed.</description>
+  <releaseNotes>https://github.com/ioabdullahi/runvessa-releases/releases/tag/v0.4.0-preview.11</releaseNotes>
   <tags>runvessa server ssh backup migration preview</tags>
  </metadata>
  <files><file src="tools\**" target="tools" /></files>
