@@ -3,8 +3,8 @@ if (-not [Environment]::Is64BitOperatingSystem) { throw 'Runvessa requires 64-bi
 $packageArgs = @{
   packageName = 'runvessa'
   fileType = 'exe'
-  url64bit = 'https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.13/Runvessa-Setup-0.4.0-preview.13-Windows-x64.exe'
-  checksum64 = 'ea0ba3c5573c53bf3aa2b76e906bdc45094264c8c65314a13279e0c39b6ef644'
+  url64bit = 'https://github.com/ioabdullahi/runvessa-releases/releases/download/v0.4.0-preview.14/Runvessa-Setup-0.4.0-preview.14-Windows-x64.exe'
+  checksum64 = 'b173d813d43f2aa0a1d6fd42df5603e013ec567b09ff7a312c08dc267de68b9d'
   checksumType64 = 'sha256'
   silentArgs = '/S'
   validExitCodes = @(0)
